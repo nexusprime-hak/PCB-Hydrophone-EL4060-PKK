@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "hydrophone_stuff") (type "KiCad") (uri "C:/Users/Devon Josiah/Documents/Riset USBL/hydrophone_stuff.kicad_sym") (options "") (descr ""))
+	(lib (name "OPA1642AID") (type "KiCad") (uri "C:/Users/Devon Josiah/Documents/Riset USBL/OPA1642AID.kicad_sym") (options "") (descr ""))
+)
